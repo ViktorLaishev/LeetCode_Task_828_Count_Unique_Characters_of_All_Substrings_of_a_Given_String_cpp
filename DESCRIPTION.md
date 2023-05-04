@@ -9,7 +9,7 @@ Notice that some substrings can be repeated so in this case you have to count th
   
   
 Example 1:
-
+ 
 Input: s = "ABC"
 Output: 10
 Explanation: All possible substrings are: "A","B","C","AB","BC" and "ABC".
