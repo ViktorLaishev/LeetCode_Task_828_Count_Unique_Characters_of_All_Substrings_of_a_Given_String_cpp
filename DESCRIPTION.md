@@ -5,7 +5,7 @@ For example, calling countUniqueChars(s) if s = "LEETCODE" then "L", "T", "C", "
 Given a string s, return the sum of countUniqueChars(t) where t is a substring of s. The test cases are generated such that the answer fits in a 32-bit integer.
 
 Notice that some substrings can be repeated so in this case you have to count the repeated ones too. 
- 
+  
   
      
 Example 1:
