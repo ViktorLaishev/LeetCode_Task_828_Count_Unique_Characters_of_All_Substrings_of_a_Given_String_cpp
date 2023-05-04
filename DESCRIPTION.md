@@ -7,7 +7,7 @@ Given a string s, return the sum of countUniqueChars(t) where t is a substring o
 Notice that some substrings can be repeated so in this case you have to count the repeated ones too. 
   
   
-    
+   
 Example 1: 
  
 Input: s = "ABC"
