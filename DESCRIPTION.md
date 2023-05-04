@@ -8,7 +8,7 @@ Notice that some substrings can be repeated so in this case you have to count th
   
   
      
-Example 1:
+Example 1: 
  
 Input: s = "ABC"
 Output: 10
